@@ -1,5 +1,4 @@
-#leandro dji tello code
-#@leandroafonso.m
+#aishend01 - leandro afonso dji tello code
 
 
 #mission pad detection
